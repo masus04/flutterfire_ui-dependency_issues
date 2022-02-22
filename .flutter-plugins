@@ -1,0 +1,18 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.1.8/
+cloud_firestore_web=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.6.8/
+desktop_webview_auth=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/desktop_webview_auth-0.0.4/
+firebase_auth=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.7/
+firebase_auth_web=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.7/
+firebase_core=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.12.0/
+firebase_core_web=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.5.4/
+firebase_database=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.6/
+firebase_database_web=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database_web-0.2.0+5/
+firebase_dynamic_links=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-4.0.6/
+flutter_facebook_auth=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_auth-4.1.1/
+flutter_facebook_auth_web=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_auth_web-3.0.0+1/
+google_sign_in=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.4/
+google_sign_in_web=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+5/
+sign_in_with_apple=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/
+sign_in_with_apple_web=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple_web-1.0.1/
+twitter_login=/home/masus/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/twitter_login-4.0.1/
