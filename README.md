@@ -1,4 +1,4 @@
-# test_project
+# flutterfire_ui-dependency_issues
 
 A new Flutter project.
 
